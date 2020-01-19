@@ -1,6 +1,6 @@
 {
   "name": "conventional-changelog-angularx",
-  "version": "0.0.1",
+  "version": "2.0.2",
   "description": "conventional-changelog angular extended with a specific ",
   "main": "index.js",
   "scripts": {
